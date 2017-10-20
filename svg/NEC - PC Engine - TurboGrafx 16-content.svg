@@ -27,9 +27,9 @@
      inkscape:window-height="705"
      id="namedview214"
      showgrid="false"
-     inkscape:zoom="0.69140623"
-     inkscape:cx="28.147009"
-     inkscape:cy="-74.254952"
+     inkscape:zoom="1.3828125"
+     inkscape:cx="54.079151"
+     inkscape:cy="96.217913"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -90,7 +90,7 @@
        style="fill:#404040;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="path48" /></g><g
      id="g848"
-     transform="translate(1.7284368)"><path
+     transform="matrix(1.1003618,0,0,1.1003618,-15.226509,-28.211679)"><path
        id="path50"
        style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.45341778"
        d="M 192.916,281.1 H 144.96047 V 211.07869 H 192.916 Z"

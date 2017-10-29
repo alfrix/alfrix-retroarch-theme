@@ -21,7 +21,7 @@
    inkscape:export-ydpi="360"><metadata
      id="metadata5474"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
      id="defs5472"><clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath5482"><path
@@ -41,13 +41,14 @@
      id="namedview5470"
      showgrid="false"
      inkscape:zoom="7.380427"
-     inkscape:cx="33.008784"
+     inkscape:cx="31.237055"
      inkscape:cy="32.4787"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="g5476"
-     showguides="false"><sodipodi:guide
+     showguides="false"
+     inkscape:pagecheckerboard="true"><sodipodi:guide
        position="18.969092,68.153238"
        orientation="0,1"
        id="guide819"

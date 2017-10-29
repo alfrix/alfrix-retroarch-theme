@@ -21,7 +21,7 @@
    inkscape:export-ydpi="360"><metadata
      id="metadata4962"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
      id="defs4960"><inkscape:perspective
        sodipodi:type="inkscape:persp3d"
        inkscape:vp_x="0 : 32 : 1"
@@ -47,12 +47,13 @@
      id="namedview4958"
      showgrid="false"
      inkscape:zoom="5.21875"
-     inkscape:cx="23.934783"
-     inkscape:cy="47.372603"
+     inkscape:cx="25.080104"
+     inkscape:cy="32.043262"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g4964" /><g
+     inkscape:current-layer="g4964"
+     inkscape:pagecheckerboard="true" /><g
      id="g4964"
      inkscape:groupmode="layer"
      inkscape:label="Funtech - Super Acan"

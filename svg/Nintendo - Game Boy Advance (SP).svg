@@ -29,7 +29,7 @@
      showgrid="false"
      inkscape:pagecheckerboard="true"
      inkscape:zoom="0.69140623"
-     inkscape:cx="-96.180795"
+     inkscape:cx="-156.20339"
      inkscape:cy="170.66667"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -276,10 +276,11 @@
        style="fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="path186" /></g><g
      id="g188"
-     transform="matrix(1.3333333,0,0,-1.3333333,234.66666,128)"><path
+     transform="matrix(1.3333333,0,0,-1.3333333,234.66666,128)"
+     style="font-variant-east_asian:normal;opacity:1;vector-effect:none;fill:#7f8c8d;fill-opacity:1;stroke:none;stroke-width:0.99999996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><path
        inkscape:connector-curvature="0"
        d="M 0,0 -96,0.003 V 64 H 0 Z"
-       style="fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="fill:#7f8c8d;fill-opacity:1;fill-rule:nonzero;stroke:none;font-variant-east_asian:normal;vector-effect:none;stroke-width:0.99999996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path190" /></g><g
      id="g192"
      transform="matrix(1.3333333,0,0,-1.3333333,140.3012,135.74134)"><path

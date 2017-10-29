@@ -29,7 +29,7 @@
      showgrid="false"
      inkscape:pagecheckerboard="true"
      inkscape:zoom="0.69140623"
-     inkscape:cx="170.66667"
+     inkscape:cx="-96.180795"
      inkscape:cy="170.66667"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -37,7 +37,7 @@
      inkscape:current-layer="svg2" /><metadata
      id="metadata8"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
      id="defs6"><clipPath
        id="clipPath18"
        clipPathUnits="userSpaceOnUse"><path
@@ -68,10 +68,11 @@
      style="fill:#191919;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333325"
      id="path46" /><g
      id="g48"
-     transform="matrix(1.3333333,0,0,-1.3333333,267.04759,90.66667)"><path
+     transform="matrix(1.3333333,0,0,-1.3333333,267.04759,90.66667)"
+     style="font-variant-east_asian:normal;opacity:1;vector-effect:none;fill:#d9d9d9;fill-opacity:1;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stroke:none"><path
        inkscape:connector-curvature="0"
        d="m 0,0 c 10.87,0 19.714,-8.585 19.714,-19.138 v -100.077 c 0,-2.643 -2.206,-4.785 -4.928,-4.785 h -174.143 c -2.722,0 -4.929,2.142 -4.929,4.785 v 100.077 c 0,10.57 8.827,19.138 19.715,19.138 L 0,0"
-       style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="fill:#d9d9d9;fill-opacity:1;fill-rule:nonzero;stroke:none;font-variant-east_asian:normal;vector-effect:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path50" /></g><g
      id="g52"
      transform="matrix(1.3333333,0,0,-1.3333333,215.67106,304)"><path

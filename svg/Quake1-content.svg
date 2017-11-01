@@ -29,8 +29,8 @@
      showgrid="false"
      inkscape:pagecheckerboard="true"
      inkscape:zoom="0.69140623"
-     inkscape:cx="120.06827"
-     inkscape:cy="261.71191"
+     inkscape:cx="127.73124"
+     inkscape:cy="333.09215"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -61,10 +61,11 @@
        style="fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="path42" /></g><g
      id="g44"
-     transform="matrix(1.3333333,0,0,-1.3333333,170.66666,150.70973)"><path
+     transform="matrix(1.3333333,0,0,-1.3333333,170.66666,150.70973)"
+     style="fill:#000000;fill-opacity:1"><path
        inkscape:connector-curvature="0"
        d="m 0,0 c 8.266,0 14.968,-6.701 14.968,-14.968 0,-8.266 -6.702,-14.967 -14.968,-14.967 -8.266,0 -14.968,6.701 -14.968,14.967 C -14.968,-6.701 -8.266,0 0,0 m 0,29.935 c -24.799,0 -44.903,-20.103 -44.903,-44.903 0,-24.799 20.104,-44.903 44.903,-44.903 24.799,0 44.903,20.104 44.903,44.903 0,24.8 -20.104,44.903 -44.903,44.903"
-       style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="path46" /></g><g
      id="g48"
      transform="matrix(1.3333333,0,0,-1.3333333,170.66666,153.20427)"><path

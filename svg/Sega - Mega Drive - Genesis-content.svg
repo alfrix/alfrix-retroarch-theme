@@ -31,9 +31,9 @@
      id="namedview124"
      showgrid="true"
      inkscape:pagecheckerboard="true"
-     inkscape:zoom="0.34570313"
-     inkscape:cx="-252.83592"
-     inkscape:cy="-32.476962"
+     inkscape:zoom="1.9555922"
+     inkscape:cx="9.380797"
+     inkscape:cy="159.9359"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -53,7 +53,8 @@
          id="path24"
          d="M 4,212 H 252 V 48 H 4 Z" /></clipPath></defs><g
      id="g36"
-     transform="matrix(1.3333333,0,0,-1.3333333,318.88893,69.333337)"><path
+     transform="matrix(1.3333333,0,0,-1.3333333,318.88893,69.333337)"
+     style="fill:#262626;fill-opacity:1"><path
        inkscape:connector-curvature="0"
        d="m 0,0 h -222.333 c -2.659,0 -4.834,-2.168 -4.834,-4.818 v -135.955 c 0,0 0.906,-7.226 44.545,-7.227 h 142.911 c 43.638,0.001 44.544,7.227 44.544,7.227 V -4.818 C 4.833,-2.168 2.658,0 0,0"
        style="fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"

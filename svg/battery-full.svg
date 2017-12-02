@@ -32,7 +32,7 @@
      showgrid="false"
      inkscape:pagecheckerboard="true"
      inkscape:zoom="3.9111843"
-     inkscape:cx="-36.896154"
+     inkscape:cx="-94.807002"
      inkscape:cy="117.13197"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
@@ -42,7 +42,7 @@
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
      id="defs6" /><path
-     style="fill:#44aa00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.97424465"
-     d="M 120 86 L 120 90 L 112 90 L 112 146 L 144 146 L 144 90 L 136 90 L 136 86 L 120 86 z "
-     transform="scale(1.3333334)"
-     id="path12" /></svg>
+     style="fill:#44aa00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.25494635"
+     d="m 160.00001,120.00001 v 4.97778 h -10.66667 v 69.68889 h 42.66667 v -69.68889 h -10.66667 v -4.97778 z"
+     id="path12"
+     inkscape:connector-curvature="0" /></svg>

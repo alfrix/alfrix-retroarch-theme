@@ -31,9 +31,9 @@
      id="namedview11"
      showgrid="false"
      inkscape:pagecheckerboard="true"
-     inkscape:zoom="7.8223685"
-     inkscape:cx="70.707212"
-     inkscape:cy="137.2792"
+     inkscape:zoom="11.0625"
+     inkscape:cx="110.34891"
+     inkscape:cy="135.08596"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
@@ -43,11 +43,11 @@
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
      id="defs6" /><path
      inkscape:connector-curvature="0"
-     style="fill:#44aa00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.29899287"
-     d="M 160,114.66666 V 120 h -10.66667 v 74.66667 h 42.66668 V 120 h -10.66667 v -5.33334 z"
+     style="fill:#44aa00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.25494623"
+     d="m 160,120 v 4.97779 h -10.66667 v 69.68888 h 42.66668 V 124.97779 H 181.33334 V 120 Z"
      id="path12-2" /><g
      id="g18"
-     transform="matrix(1.3333333,0,0,-1.2698413,176,129.39683)"
+     transform="matrix(1.3333333,0,0,-1.2698413,176,132.12699)"
      style="fill:#d4aa00"><path
        inkscape:connector-curvature="0"
        d="m 0,0 -12,-24 h 8 l -4,-20 12,24 h -8 z"

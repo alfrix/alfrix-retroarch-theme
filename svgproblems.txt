@@ -1,0 +1,3 @@
+** (inkscape.exe:224): WARNING **: Unimplemented style property SP_PROP_INTERPOLATION_FILTERS: value: linearRGB
+** (inkscape.exe:224): WARNING **: Unimplemented style property SP_PROP_COLOR_INTERPOLATION: value: sRGB
+** (inkscape.exe:224): WARNING **: Unimplemented style property SP_PROP_CLIP_RULE: value: nonzero
